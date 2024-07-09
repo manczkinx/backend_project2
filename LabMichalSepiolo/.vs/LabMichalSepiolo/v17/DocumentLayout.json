@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\source\\repos\\LabMichalSepiolo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\pages\\userview\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\data\\lmsrazorpagescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F40BE4-A705-4EB2-B69E-38C76B6BB611}|..\\LMSRazorPages\\LMSRazorPages.csproj|c:\\users\\jacob\\source\\repos\\lmsrazorpages\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC458FEC-B27D-4783-94D2-75DCD6AFFE11}|..\\LMSServer\\LMSServer.csproj|c:\\users\\jacob\\source\\repos\\lmsserver\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FC589-0B1B-40B1-9C4F-D4E9CDF10203}|..\\LMSTests\\LMSTests.csproj|c:\\users\\jacob\\source\\repos\\lmstests\\memberservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FC589-0B1B-40B1-9C4F-D4E9CDF10203}|..\\LMSTests\\LMSTests.csproj|c:\\users\\jacob\\source\\repos\\lmstests\\membercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\service\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC458FEC-B27D-4783-94D2-75DCD6AFFE11}|..\\LMSServer\\LMSServer.csproj|c:\\users\\jacob\\source\\repos\\lmsserver\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA89CCAC-A001-491B-9CF6-007D19693257}|..\\LMSClient\\LMSClient.csproj|c:\\users\\jacob\\source\\repos\\lmsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC458FEC-B27D-4783-94D2-75DCD6AFFE11}|..\\LMSServer\\LMSServer.csproj|c:\\users\\jacob\\source\\repos\\lmsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC458FEC-B27D-4783-94D2-75DCD6AFFE11}|..\\LMSServer\\LMSServer.csproj|c:\\users\\jacob\\source\\repos\\lmsserver\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBAD7C8-AC8B-4777-9D19-55FC4BDFE0D8}|..\\LMSApi\\LMSApi.csproj|c:\\users\\jacob\\source\\repos\\lmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:06:16.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Index.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:02:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwC4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:02:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Details.cshtml.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Details.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:02:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:02:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:51.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Create.cshtml",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwC4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T12:02:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Pages\\UserView\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Pages\\UserView\\Create.cshtml.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Pages\\UserView\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Program.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LMSRazorPagesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Data\\LMSRazorPagesContext.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Data\\LMSRazorPagesContext.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Data\\LMSRazorPagesContext.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Data\\LMSRazorPagesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\LMSRazorPages\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSRazorPages\\Model\\User.cs",
+              "RelativeToolTip": "..\\LMSRazorPages\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:58:50.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemberControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSTests\\MemberControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\LMSTests\\MemberControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSTests\\MemberControllerTests.cs",
+              "RelativeToolTip": "..\\LMSTests\\MemberControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:40:07.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSTests\\MemberServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\LMSTests\\MemberServiceTests.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSTests\\MemberServiceTests.cs",
+              "RelativeToolTip": "..\\LMSTests\\MemberServiceTests.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwF8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:39:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "..\\LMSApi\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:04:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\Model\\Member.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Model\\Member.cs",
+              "RelativeToolTip": "..\\LMSApi\\Model\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:03:36.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\LMSServer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Model\\User.cs",
+              "RelativeToolTip": "..\\LMSServer\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\LMSServer\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Service\\IUserService.cs",
+              "RelativeToolTip": "..\\LMSServer\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\LMSApi\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:03:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Service\\IMemberService.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\Service\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Service\\IMemberService.cs",
+              "RelativeToolTip": "..\\LMSApi\\Service\\IMemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:03:47.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Service\\MemberService.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\Service\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Service\\MemberService.cs",
+              "RelativeToolTip": "..\\LMSApi\\Service\\MemberService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:04:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\LMSServer\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\LMSServer\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:27:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LMSServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSServer\\Program.cs",
+              "RelativeToolTip": "..\\LMSServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:29:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LMSClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSClient\\Program.cs",
+              "RelativeToolTip": "..\\LMSClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:26:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\LMSApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\appsettings.json",
+              "RelativeToolTip": "..\\LMSApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T11:04:52.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LMSApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\LMSApi\\Program.cs",
+              "RelativeToolTip": "..\\LMSApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:56:47.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
